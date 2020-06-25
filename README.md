@@ -1,7 +1,7 @@
 # wps-osistematico-templates
 Templates para o WPS Office
 
-Este pacote contem **23 templates oficiais do WPS Office**.
+Este pacote contem **23 templates para WPS Office**.
 
 Para instalar a tradução, **[acesse este link](https://github.com/HenriqueAD7/wps-osistematico-language-pt-br)**.
 
