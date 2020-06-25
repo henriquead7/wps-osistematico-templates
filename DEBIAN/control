@@ -1,0 +1,15 @@
+Package: wps-osistematico-templates
+Priority: optional
+Section: localization
+Replaces: wps-templates-osistematico-2019-1.0
+Installed-Size: 60436
+Maintainer: HenriqueAD <www.youtube.com/OSistematico>
+Architecture: all
+Version: 1.0
+Homepage: http://www.osistematico.com.br
+Depends: wps-office
+Copyright: MIT
+Description: wps-osistematico-templates
+ Apoie nosso projeto, SISTEMATICAMENTE!, em "www.youtube.com/OSistematico".
+ Este arquivo contém templates para o WPS Office 2019.
+ Todos os direitos autorais devem ser atribuidos aos seus respectivos donos.
