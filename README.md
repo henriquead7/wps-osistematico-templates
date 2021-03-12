@@ -1,3 +1,7 @@
+# Projeto pausado por tempo indeterminado!
+
+***
+
 # wps-osistematico-templates
 Templates para o WPS Office
 
